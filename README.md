@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Richmond Nyamekye
 
-💻 Backend Engineer passionate about building scalable and secure systems.
+💻 Backend Engineer and Data Engineer passionate about building scalable and secure systems.
 
 🌱 Currently learning more about software architecture, cloud technologies, and cybersecurity.
 
